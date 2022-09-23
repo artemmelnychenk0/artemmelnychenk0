@@ -25,7 +25,7 @@ I'm &nbsp;🌱&nbsp; learning -->&nbsp;&nbsp;![TypeScript](https://img.shields.i
 
 ### How to reach me:
 
-[![Gmail Badge](https://img.shields.io/badge/-amelnychenko06@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:amelnychenko06@gmail.com)](mailto:amelnychenko06@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Artem_Melnychenko-blue?style=plastic&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/russell-salonen-721513216/](https://www.linkedin.com/in/artem-melnychenko-219606b2/))]([https://www.linkedin.com/in/russell-salonen-721513216/](https://www.linkedin.com/in/artem-melnychenko-219606b2/))
+[![Gmail Badge](https://img.shields.io/badge/-amelnychenko06@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:amelnychenko06@gmail.com)](mailto:amelnychenko06@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Artem_Melnychenko-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artem-melnychenko-219606b2/)](https://www.linkedin.com/in/artem-melnychenko-219606b2/)
 
 
 -----
